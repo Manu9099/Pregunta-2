@@ -1,0 +1,20 @@
+{
+  "name": "pregunta-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "mauel chirinos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
